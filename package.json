@@ -1,0 +1,16 @@
+{
+  "name": "owon",
+  "version": "0.0.1",
+  "description": "read data from OWON scope",
+  "main": "owon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alex.drom@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "*",
+    "commander": "*",
+    "usb": "*"
+  }
+}
